@@ -1,0 +1,801 @@
+Date,Vendor,Category,Amount
+2025-08-28,Vine Street Cafe,Supplies,196.02
+2025-10-07,Cedar & Poll,Services,205.45
+2025-10-26,Cedar & Poll,Office,193.96
+2025-03-03,Vine Street Cafe,Office,252.6
+2025-07-15,Trellis Cleaning,Travel,263.51
+2025-09-03,Northgate Supply,Office,92.94
+2025-04-20,Northgate Supply,Supplies,146.56
+2025-10-27,Kestrel Print,Services,110.06
+2025-05-16,Northgate Supply,Office,198.19
+2025-05-14,Vine Street Cafe,Office,296.88
+2025-06-25,Kestrel Print,Services,131.88
+2025-02-19,Brightline Courier,Supplies,60.47
+2025-05-13,Brightline Courier,Office,351.84
+2025-01-07,Kestrel Print,Office,203.17
+2025-12-13,Halloran Tools,Office,241.1
+2025-04-25,Marlowe Fuel,Meals,52.33
+2025-06-01,Halloran Tools,Office,71.03
+2025-12-04,Northgate Supply,Office,201.19
+2025-08-06,Vine Street Cafe,Travel,194.29
+2025-04-24,Cedar & Poll,Supplies,271.62
+2025-02-13,Halloran Tools,Travel,18.19
+2025-10-10,Northgate Supply,Travel,91.8
+2025-10-21,Trellis Cleaning,Office,34.59
+2025-03-07,Pemberton Office,Meals,21.77
+2025-10-11,Marlowe Fuel,Supplies,46.92
+2025-02-07,Trellis Cleaning,Travel,24.11
+2025-06-12,Trellis Cleaning,Supplies,68.13
+2025-10-16,Trellis Cleaning,Travel,359.41
+2025-03-21,Cedar & Poll,Meals,375.92
+2025-10-08,Kestrel Print,Travel,309.33
+2025-09-07,Halloran Tools,Supplies,255.79
+2025-07-02,Brightline Courier,Office,33.25
+2025-05-08,Halloran Tools,Meals,183.8
+2025-10-16,Marlowe Fuel,Services,87.12
+2025-12-03,Cedar & Poll,Travel,206.84
+2025-11-28,Trellis Cleaning,Services,47.21
+2025-04-07,Northgate Supply,Office,124.06
+2025-08-08,Northgate Supply,Office,87.44
+2025-06-17,Trellis Cleaning,Travel,54.32
+2025-03-15,Ashby Catering,Services,248.27
+2025-03-19,Northgate Supply,Office,205.07
+2025-06-23,Marlowe Fuel,Office,26.38
+2025-11-03,Pemberton Office,Office,305.82
+2025-06-05,Brightline Courier,Office,196.52
+2025-06-24,Northgate Supply,Travel,330.55
+2025-06-12,Brightline Courier,Supplies,372.93
+2025-07-26,Northgate Supply,Supplies,243.69
+2025-10-22,Halloran Tools,Supplies,247.58
+2025-10-03,Brightline Courier,Office,269.93
+2025-05-14,Ashby Catering,Supplies,386.1
+2025-12-19,Pemberton Office,Supplies,200.27
+2025-09-03,Vine Street Cafe,Services,29.74
+2025-10-03,Pemberton Office,Office,108.71
+2025-12-04,Pemberton Office,Services,278.09
+2025-08-09,Northgate Supply,Meals,136.61
+2025-11-20,Kestrel Print,Services,84.83
+2025-06-22,Pemberton Office,Supplies,369.34
+2025-06-13,Marlowe Fuel,Travel,267.86
+2025-04-07,Halloran Tools,Travel,247.74
+2025-06-07,Cedar & Poll,Travel,213.61
+2025-01-23,Brightline Courier,Meals,341.81
+2025-02-15,Pemberton Office,Meals,382.74
+2025-07-13,Vine Street Cafe,Supplies,282.83
+2025-12-27,Trellis Cleaning,Supplies,144.22
+2025-01-09,Trellis Cleaning,Office,285.23
+2025-05-19,Ashby Catering,Meals,273.82
+2025-10-01,Cedar & Poll,Supplies,197.2
+2025-01-25,Marlowe Fuel,Travel,325.03
+2025-01-21,Brightline Courier,Supplies,60.95
+2025-09-21,Ashby Catering,Office,287.69
+2025-04-27,Pemberton Office,Meals,88.4
+2025-01-25,Pemberton Office,Services,299.38
+2025-03-08,Marlowe Fuel,Meals,230.64
+2025-09-17,Trellis Cleaning,Travel,173.05
+2025-12-08,Brightline Courier,Supplies,385.45
+2025-12-13,Cedar & Poll,Supplies,196.69
+2025-11-01,Halloran Tools,Services,242.11
+2025-09-26,Ashby Catering,Supplies,146.63
+2025-04-04,Brightline Courier,Travel,113.46
+2025-07-03,Marlowe Fuel,Services,402.84
+2025-06-09,Northgate Supply,Meals,216.86
+2025-01-15,Ashby Catering,Services,184.04
+2025-05-16,Northgate Supply,Travel,336.8
+2025-02-14,Northgate Supply,Travel,228.05
+2025-11-26,Cedar & Poll,Supplies,76.58
+2025-09-24,Vine Street Cafe,Supplies,390.62
+2025-08-19,Brightline Courier,Travel,191.13
+2025-09-10,Vine Street Cafe,Travel,223.98
+2025-09-09,Marlowe Fuel,Supplies,394.19
+2025-10-07,Marlowe Fuel,Travel,399.57
+2025-09-09,Trellis Cleaning,Supplies,97.18
+2025-09-04,Vine Street Cafe,Office,256.46
+2025-01-18,Northgate Supply,Services,379.44
+2025-09-26,Trellis Cleaning,Office,211.47
+2025-12-06,Brightline Courier,Services,198.82
+2025-07-09,Kestrel Print,Supplies,212.26
+2025-06-14,Pemberton Office,Services,142.98
+2025-04-14,Trellis Cleaning,Office,382.56
+2025-03-23,Northgate Supply,Office,94.48
+2025-04-01,Marlowe Fuel,Meals,303.1
+2025-04-20,Pemberton Office,Office,214.87
+2025-10-04,Vine Street Cafe,Services,116.72
+2025-04-23,Vine Street Cafe,Supplies,27.16
+2025-11-14,Vine Street Cafe,Services,80.93
+2025-04-28,Vine Street Cafe,Travel,226.67
+2025-09-20,Trellis Cleaning,Travel,109.67
+2025-12-21,Ashby Catering,Travel,142.45
+2025-06-07,Kestrel Print,Travel,367.69
+2025-03-08,Cedar & Poll,Office,120.24
+2025-02-14,Halloran Tools,Services,329.23
+2025-03-07,Halloran Tools,Office,55.85
+2025-10-22,Ashby Catering,Meals,63.47
+2025-09-21,Ashby Catering,Services,411.44
+2025-04-26,Brightline Courier,Supplies,59.83
+2025-01-25,Vine Street Cafe,Services,220.84
+2025-10-16,Cedar & Poll,Travel,90.71
+2025-04-06,Cedar & Poll,Meals,383.2
+2025-02-19,Northgate Supply,Travel,392.89
+2025-08-03,Brightline Courier,Meals,172.01
+2025-07-17,Ashby Catering,Supplies,100.77
+2025-06-01,Northgate Supply,Travel,89.42
+2025-08-12,Ashby Catering,Supplies,381.21
+2025-10-06,Brightline Courier,Services,330.19
+2025-06-03,Halloran Tools,Services,254.24
+2025-09-19,Ashby Catering,Meals,128.13
+2025-02-24,Cedar & Poll,Supplies,70.49
+2025-06-18,Ashby Catering,Supplies,319.5
+2025-07-07,Cedar & Poll,Office,332.15
+2025-05-16,Brightline Courier,Office,367.89
+2025-11-20,Northgate Supply,Travel,125.55
+2025-11-10,Ashby Catering,Travel,277.95
+2025-10-06,Vine Street Cafe,Office,171.5
+2025-08-21,Kestrel Print,Office,318.13
+2025-10-01,Brightline Courier,Services,60.57
+2025-04-09,Pemberton Office,Supplies,216.88
+2025-04-21,Halloran Tools,Office,56.79
+2025-05-09,Ashby Catering,Services,230.95
+2025-07-17,Trellis Cleaning,Office,269.38
+2025-11-03,Vine Street Cafe,Services,281.36
+2025-01-13,Cedar & Poll,Supplies,203.87
+2025-03-28,Pemberton Office,Services,258.8
+2025-01-14,Pemberton Office,Supplies,130.07
+2025-07-20,Marlowe Fuel,Meals,226.98
+2025-08-21,Marlowe Fuel,Services,384.21
+2025-11-23,Marlowe Fuel,Office,23.52
+2025-04-19,Northgate Supply,Travel,179.07
+2025-11-13,Northgate Supply,Meals,312.86
+2025-01-19,Ashby Catering,Office,332.25
+2025-04-14,Pemberton Office,Meals,401.43
+2025-04-02,Vine Street Cafe,Office,387.28
+2025-12-15,Cedar & Poll,Travel,255.83
+2025-02-02,Trellis Cleaning,Supplies,197.54
+2025-04-28,Northgate Supply,Meals,226.07
+2025-02-12,Pemberton Office,Travel,281.15
+2025-08-20,Marlowe Fuel,Services,286.71
+2025-06-25,Vine Street Cafe,Travel,393.34
+2025-12-05,Kestrel Print,Supplies,62.86
+2025-05-26,Vine Street Cafe,Services,351.55
+2025-05-09,Trellis Cleaning,Services,293.42
+2025-04-21,Marlowe Fuel,Travel,92.79
+2025-04-17,Kestrel Print,Office,265.59
+2025-01-09,Marlowe Fuel,Supplies,28.6
+2025-01-04,Kestrel Print,Services,127.65
+2025-02-22,Cedar & Poll,Services,110.49
+2025-06-16,Pemberton Office,Meals,100.99
+2025-06-16,Cedar & Poll,Office,334.09
+2025-08-26,Trellis Cleaning,Travel,193.07
+2025-12-09,Halloran Tools,Travel,163.37
+2025-11-27,Trellis Cleaning,Meals,132.61
+2025-12-27,Cedar & Poll,Supplies,275.6
+2025-10-04,Pemberton Office,Meals,48.93
+2025-02-14,Trellis Cleaning,Services,209.03
+2025-11-15,Marlowe Fuel,Office,47.98
+2025-04-22,Trellis Cleaning,Office,291.87
+2025-08-24,Ashby Catering,Meals,365.39
+2025-04-12,Ashby Catering,Meals,375.07
+2025-06-23,Pemberton Office,Services,252.34
+2025-11-09,Pemberton Office,Services,334.4
+2025-05-15,Ashby Catering,Travel,175.44
+2025-12-17,Kestrel Print,Office,160.51
+2025-06-01,Ashby Catering,Supplies,248.41
+2025-04-24,Trellis Cleaning,Meals,332.05
+2025-09-05,Trellis Cleaning,Services,87.85
+2025-02-25,Pemberton Office,Meals,337.87
+2025-04-17,Northgate Supply,Services,80.52
+2025-05-01,Halloran Tools,Office,247.29
+2025-05-26,Vine Street Cafe,Office,149.8
+2025-05-24,Brightline Courier,Meals,51.37
+2025-11-21,Cedar & Poll,Office,311.84
+2025-11-14,Kestrel Print,Travel,210.67
+2025-09-11,Pemberton Office,Supplies,156.07
+2025-06-22,Cedar & Poll,Supplies,210.29
+2025-12-03,Trellis Cleaning,Office,179.78
+2025-11-12,Northgate Supply,Supplies,346.53
+2025-08-18,Northgate Supply,Services,160.65
+2025-01-26,Brightline Courier,Supplies,381.88
+2025-03-08,Cedar & Poll,Supplies,287.52
+2025-06-07,Halloran Tools,Supplies,226.45
+2025-05-02,Pemberton Office,Meals,305.92
+2025-05-21,Cedar & Poll,Travel,377.41
+2025-08-01,Trellis Cleaning,Supplies,376.26
+2025-01-11,Brightline Courier,Travel,90.71
+2025-04-19,Kestrel Print,Services,300.59
+2025-10-17,Kestrel Print,Supplies,90.88
+2025-05-13,Cedar & Poll,Meals,264.94
+2025-09-16,Marlowe Fuel,Supplies,367.64
+2025-06-22,Vine Street Cafe,Office,208.15
+2025-04-13,Northgate Supply,Travel,391.32
+2025-07-17,Vine Street Cafe,Meals,328.35
+2025-01-22,Kestrel Print,Office,362.38
+2025-06-15,Kestrel Print,Supplies,256.79
+2025-03-14,Cedar & Poll,Meals,75.03
+2025-09-05,Trellis Cleaning,Meals,221.28
+2025-01-05,Trellis Cleaning,Travel,18.54
+2025-03-27,Cedar & Poll,Office,156.58
+2025-10-23,Vine Street Cafe,Office,368.52
+2025-12-15,Brightline Courier,Services,232.1
+2025-09-10,Northgate Supply,Travel,182.29
+2025-11-03,Pemberton Office,Travel,32.67
+2025-07-17,Pemberton Office,Travel,390.96
+2025-05-11,Marlowe Fuel,Supplies,47.95
+2025-05-15,Brightline Courier,Meals,47.29
+2025-03-04,Halloran Tools,Supplies,312.17
+2025-02-21,Pemberton Office,Office,358.29
+2025-12-23,Pemberton Office,Travel,133.63
+2025-02-15,Northgate Supply,Travel,373.2
+2025-03-10,Halloran Tools,Services,313.39
+2025-06-25,Halloran Tools,Services,280.68
+2025-05-07,Kestrel Print,Supplies,306.19
+2025-06-10,Marlowe Fuel,Services,203.11
+2025-11-11,Pemberton Office,Supplies,54.36
+2025-03-20,Brightline Courier,Travel,285.01
+2025-12-06,Cedar & Poll,Travel,176.5
+2025-08-19,Brightline Courier,Office,107.27
+2025-03-04,Halloran Tools,Supplies,321.85
+2025-06-27,Halloran Tools,Services,72.79
+2025-04-25,Cedar & Poll,Supplies,208.2
+2025-07-20,Northgate Supply,Supplies,259.56
+2025-06-26,Kestrel Print,Services,226.78
+2025-05-11,Kestrel Print,Meals,138.87
+2025-08-04,Vine Street Cafe,Supplies,98.72
+2025-06-26,Marlowe Fuel,Office,258.91
+2025-03-09,Vine Street Cafe,Meals,234.01
+2025-06-20,Vine Street Cafe,Services,73.85
+2025-12-07,Vine Street Cafe,Travel,241.54
+2025-01-21,Kestrel Print,Office,71.69
+2025-08-19,Halloran Tools,Meals,147.7
+2025-06-09,Pemberton Office,Office,196.2
+2025-12-05,Kestrel Print,Services,232.11
+2025-09-03,Vine Street Cafe,Meals,84.4
+2025-12-27,Ashby Catering,Services,75.38
+2025-01-10,Ashby Catering,Travel,316.78
+2025-06-27,Cedar & Poll,Travel,253.45
+2025-02-15,Northgate Supply,Supplies,88.95
+2025-11-05,Marlowe Fuel,Supplies,260.4
+2025-11-26,Northgate Supply,Travel,96.62
+2025-08-02,Cedar & Poll,Services,170.23
+2025-10-13,Cedar & Poll,Meals,222.79
+2025-05-08,Trellis Cleaning,Meals,39.07
+2025-01-24,Cedar & Poll,Supplies,395.98
+2025-10-04,Pemberton Office,Meals,180.1
+2025-10-23,Trellis Cleaning,Supplies,314.18
+2025-08-15,Halloran Tools,Supplies,64.24
+2025-02-17,Ashby Catering,Services,223.15
+2025-07-01,Ashby Catering,Office,134.64
+2025-10-14,Halloran Tools,Services,144.83
+2025-05-19,Brightline Courier,Travel,67.03
+2025-08-08,Vine Street Cafe,Supplies,401.18
+2025-08-23,Brightline Courier,Services,376.52
+2025-09-10,Halloran Tools,Travel,364.62
+2025-12-28,Ashby Catering,Services,184.03
+2025-03-08,Halloran Tools,Services,66.34
+2025-02-04,Vine Street Cafe,Travel,66.78
+2025-09-19,Pemberton Office,Office,134.67
+2025-12-10,Northgate Supply,Meals,85.77
+2025-08-15,Vine Street Cafe,Supplies,73.66
+2025-12-19,Kestrel Print,Office,138.65
+2025-08-11,Marlowe Fuel,Meals,214.38
+2025-08-07,Kestrel Print,Meals,356.45
+2025-12-02,Kestrel Print,Meals,348.14
+2025-06-16,Northgate Supply,Travel,268.34
+2025-12-18,Kestrel Print,Services,267.16
+2025-04-02,Brightline Courier,Meals,303.96
+2025-06-09,Halloran Tools,Travel,149.96
+2025-08-14,Brightline Courier,Travel,105.96
+2025-05-04,Kestrel Print,Meals,89.32
+2025-04-17,Marlowe Fuel,Meals,164.77
+2025-11-17,Brightline Courier,Services,221.27
+2025-05-06,Kestrel Print,Meals,70.22
+2025-11-03,Pemberton Office,Office,191.5
+2025-09-03,Vine Street Cafe,Office,20.75
+2025-10-10,Vine Street Cafe,Meals,184.84
+2025-10-03,Cedar & Poll,Meals,407.41
+2025-04-08,Cedar & Poll,Meals,307.27
+2025-01-06,Cedar & Poll,Office,263.03
+2025-10-13,Northgate Supply,Supplies,41.73
+2025-02-18,Ashby Catering,Meals,277.36
+2025-01-17,Marlowe Fuel,Services,343.86
+2025-11-22,Vine Street Cafe,Services,86.53
+2025-03-04,Trellis Cleaning,Supplies,110.73
+2025-08-18,Marlowe Fuel,Travel,120.31
+2025-09-08,Trellis Cleaning,Services,214.59
+2025-01-07,Trellis Cleaning,Office,243.62
+2025-03-11,Cedar & Poll,Services,25.01
+2025-08-26,Halloran Tools,Services,192.02
+2025-05-28,Northgate Supply,Office,63.03
+2025-03-19,Vine Street Cafe,Services,329.89
+2025-04-20,Cedar & Poll,Office,140.54
+2025-01-23,Ashby Catering,Services,308.96
+2025-05-25,Trellis Cleaning,Supplies,52.86
+2025-09-06,Halloran Tools,Meals,115.77
+2025-08-23,Trellis Cleaning,Supplies,42.09
+2025-07-15,Ashby Catering,Travel,295.28
+2025-01-05,Pemberton Office,Services,406.56
+2025-03-24,Pemberton Office,Services,311.51
+2025-01-01,Kestrel Print,Supplies,368.69
+2025-03-03,Halloran Tools,Services,135.44
+2025-07-03,Northgate Supply,Services,108.57
+2025-05-04,Vine Street Cafe,Travel,182.83
+2025-02-08,Ashby Catering,Meals,150.8
+2025-10-07,Northgate Supply,Travel,176.8
+2025-11-02,Ashby Catering,Services,291.71
+2025-10-06,Pemberton Office,Supplies,386.56
+2025-04-13,Halloran Tools,Office,102.86
+2025-06-08,Cedar & Poll,Services,334.84
+2025-08-07,Halloran Tools,Travel,251.99
+2025-05-16,Pemberton Office,Supplies,409.37
+2025-11-06,Pemberton Office,Travel,230.89
+2025-07-03,Northgate Supply,Meals,160.95
+2025-05-20,Northgate Supply,Services,89.73
+2025-05-17,Halloran Tools,Services,381.88
+2025-12-07,Marlowe Fuel,Office,160.27
+2025-03-24,Ashby Catering,Travel,319.68
+2025-12-27,Brightline Courier,Office,411.21
+2025-07-15,Brightline Courier,Supplies,146.15
+2025-09-22,Northgate Supply,Meals,173.23
+2025-04-16,Northgate Supply,Travel,77.44
+2025-10-05,Northgate Supply,Travel,141.04
+2025-07-16,Vine Street Cafe,Travel,221.68
+2025-09-09,Ashby Catering,Supplies,280.47
+2025-03-07,Marlowe Fuel,Services,298.83
+2025-07-05,Halloran Tools,Services,359.19
+2025-04-04,Marlowe Fuel,Meals,153.91
+2025-04-05,Northgate Supply,Office,312.36
+2025-08-19,Northgate Supply,Meals,278.21
+2025-02-28,Kestrel Print,Services,289.55
+2025-11-04,Ashby Catering,Travel,326.62
+2025-05-03,Halloran Tools,Office,172.62
+2025-01-16,Halloran Tools,Meals,130.12
+2025-12-09,Kestrel Print,Travel,382.64
+2025-04-16,Cedar & Poll,Meals,280.09
+2025-04-17,Brightline Courier,Meals,375.56
+2025-03-16,Trellis Cleaning,Meals,294.34
+2025-09-10,Northgate Supply,Supplies,65.41
+2025-02-13,Marlowe Fuel,Office,166.61
+2025-10-10,Pemberton Office,Meals,367.12
+2025-02-01,Northgate Supply,Meals,145.48
+2025-06-19,Marlowe Fuel,Meals,339.17
+2025-03-21,Pemberton Office,Supplies,260.41
+2025-06-01,Trellis Cleaning,Travel,321.96
+2025-11-02,Trellis Cleaning,Services,179.92
+2025-07-03,Marlowe Fuel,Office,344.86
+2025-08-13,Halloran Tools,Office,334.71
+2025-11-17,Marlowe Fuel,Meals,213.04
+2025-08-01,Cedar & Poll,Services,93.83
+2025-04-09,Kestrel Print,Travel,223.11
+2025-09-13,Northgate Supply,Travel,233.52
+2025-11-25,Vine Street Cafe,Office,264.01
+2025-09-27,Ashby Catering,Meals,154.59
+2025-01-11,Kestrel Print,Supplies,288.5
+2025-04-27,Cedar & Poll,Travel,149.23
+2025-12-16,Trellis Cleaning,Meals,163.59
+2025-05-12,Vine Street Cafe,Supplies,111.39
+2025-04-12,Ashby Catering,Travel,379.47
+2025-12-05,Brightline Courier,Office,340.23
+2025-12-10,Brightline Courier,Supplies,219.87
+2025-11-16,Northgate Supply,Travel,262.9
+2025-07-28,Pemberton Office,Office,153.79
+2025-07-17,Halloran Tools,Meals,300.08
+2025-05-12,Ashby Catering,Travel,149.53
+2025-04-27,Trellis Cleaning,Travel,241.58
+2025-07-21,Cedar & Poll,Services,309.66
+2025-05-26,Cedar & Poll,Travel,97.14
+2025-10-22,Marlowe Fuel,Travel,274.89
+2025-01-16,Trellis Cleaning,Travel,123.6
+2025-05-14,Marlowe Fuel,Supplies,170.35
+2025-11-05,Northgate Supply,Travel,299.03
+2025-02-28,Northgate Supply,Travel,130.7
+2025-12-18,Brightline Courier,Supplies,148.04
+2025-01-27,Vine Street Cafe,Supplies,85.46
+2025-02-10,Pemberton Office,Meals,106.13
+2025-12-20,Halloran Tools,Travel,404.5
+2025-07-22,Kestrel Print,Services,129.38
+2025-03-15,Cedar & Poll,Office,237.14
+2025-05-16,Halloran Tools,Office,77.83
+2025-01-09,Trellis Cleaning,Services,74.59
+2025-11-13,Marlowe Fuel,Meals,107.66
+2025-08-07,Ashby Catering,Services,120.28
+2025-01-05,Brightline Courier,Office,369.7
+2025-05-22,Brightline Courier,Office,89.9
+2025-08-05,Kestrel Print,Supplies,208.8
+2025-07-12,Vine Street Cafe,Supplies,237.6
+2025-04-18,Trellis Cleaning,Services,117.46
+2025-04-10,Kestrel Print,Supplies,243.07
+2025-12-02,Cedar & Poll,Office,390.21
+2025-09-04,Brightline Courier,Meals,159.42
+2025-09-10,Brightline Courier,Services,201.54
+2025-04-03,Ashby Catering,Office,320.14
+2025-05-26,Kestrel Print,Supplies,175.31
+2025-09-27,Brightline Courier,Supplies,176.49
+2025-12-14,Marlowe Fuel,Services,27.26
+2025-10-05,Kestrel Print,Meals,171.03
+2025-06-17,Marlowe Fuel,Meals,265.0
+2025-08-12,Marlowe Fuel,Meals,44.27
+2025-11-11,Trellis Cleaning,Office,122.26
+2025-04-24,Cedar & Poll,Travel,36.48
+2025-03-18,Marlowe Fuel,Travel,87.85
+2025-02-05,Cedar & Poll,Meals,156.03
+2025-07-01,Northgate Supply,Supplies,216.01
+2025-07-04,Ashby Catering,Services,348.91
+2025-04-01,Cedar & Poll,Meals,44.2
+2025-10-04,Trellis Cleaning,Meals,187.46
+2025-04-16,Halloran Tools,Travel,338.16
+2025-02-22,Halloran Tools,Meals,365.3
+2025-06-17,Northgate Supply,Travel,305.7
+2025-11-13,Northgate Supply,Travel,260.88
+2025-06-15,Halloran Tools,Services,399.92
+2025-02-04,Pemberton Office,Supplies,280.19
+2025-07-27,Halloran Tools,Services,108.63
+2025-10-18,Trellis Cleaning,Office,221.0
+2025-01-17,Pemberton Office,Supplies,129.97
+2025-01-20,Northgate Supply,Meals,77.86
+2025-08-11,Marlowe Fuel,Services,141.31
+2025-12-16,Vine Street Cafe,Supplies,38.67
+2025-03-25,Pemberton Office,Office,110.24
+2025-11-26,Cedar & Poll,Office,332.28
+2025-09-09,Marlowe Fuel,Office,90.85
+2025-01-23,Ashby Catering,Meals,221.96
+2025-06-15,Kestrel Print,Services,23.66
+2025-07-07,Pemberton Office,Meals,396.92
+2025-04-03,Brightline Courier,Services,191.55
+2025-08-08,Brightline Courier,Supplies,354.89
+2025-09-03,Cedar & Poll,Meals,88.34
+2025-06-02,Ashby Catering,Travel,346.55
+2025-02-14,Cedar & Poll,Services,171.12
+2025-11-20,Pemberton Office,Supplies,46.32
+2025-11-07,Vine Street Cafe,Meals,363.37
+2025-12-07,Vine Street Cafe,Supplies,167.02
+2025-06-23,Ashby Catering,Meals,277.36
+2025-04-23,Kestrel Print,Travel,319.95
+2025-03-23,Trellis Cleaning,Supplies,34.29
+2025-05-04,Marlowe Fuel,Meals,258.35
+2025-06-10,Kestrel Print,Office,409.97
+2025-12-07,Ashby Catering,Meals,321.3
+2025-04-05,Brightline Courier,Meals,185.34
+2025-10-14,Marlowe Fuel,Supplies,70.71
+2025-02-04,Ashby Catering,Services,295.23
+2025-04-16,Trellis Cleaning,Office,130.24
+2025-05-28,Brightline Courier,Supplies,106.9
+2025-08-13,Kestrel Print,Supplies,254.9
+2025-08-21,Brightline Courier,Meals,183.13
+2025-05-19,Pemberton Office,Meals,133.42
+2025-12-01,Trellis Cleaning,Travel,23.96
+2025-06-05,Trellis Cleaning,Meals,170.91
+2025-05-11,Brightline Courier,Services,59.12
+2025-11-04,Pemberton Office,Travel,52.82
+2025-06-01,Ashby Catering,Office,302.89
+2025-11-23,Ashby Catering,Office,281.18
+2025-03-16,Brightline Courier,Meals,85.14
+2025-09-11,Pemberton Office,Services,42.0
+2025-04-01,Halloran Tools,Supplies,344.5
+2025-11-18,Brightline Courier,Office,44.22
+2025-08-21,Halloran Tools,Travel,222.04
+2025-10-07,Pemberton Office,Meals,345.16
+2025-09-13,Brightline Courier,Office,19.42
+2025-11-23,Trellis Cleaning,Meals,279.36
+2025-12-16,Brightline Courier,Supplies,202.65
+2025-01-12,Ashby Catering,Office,60.9
+2025-07-18,Vine Street Cafe,Services,401.92
+2025-02-10,Vine Street Cafe,Services,67.09
+2025-10-08,Cedar & Poll,Office,218.82
+2025-05-10,Ashby Catering,Travel,115.23
+2025-07-15,Northgate Supply,Travel,250.02
+2025-03-18,Brightline Courier,Supplies,72.24
+2025-02-26,Vine Street Cafe,Travel,74.72
+2025-10-17,Cedar & Poll,Supplies,261.5
+2025-12-04,Halloran Tools,Office,108.18
+2025-02-24,Halloran Tools,Travel,133.89
+2025-10-01,Halloran Tools,Office,212.41
+2025-09-21,Northgate Supply,Supplies,181.96
+2025-02-07,Marlowe Fuel,Services,62.03
+2025-07-11,Pemberton Office,Travel,275.69
+2025-09-05,Trellis Cleaning,Services,383.27
+2025-02-13,Marlowe Fuel,Meals,309.29
+2025-05-08,Ashby Catering,Office,187.13
+2025-08-13,Ashby Catering,Supplies,149.54
+2025-02-02,Marlowe Fuel,Services,42.32
+2025-09-13,Vine Street Cafe,Meals,175.5
+2025-04-22,Brightline Courier,Meals,30.77
+2025-06-16,Kestrel Print,Services,313.29
+2025-08-24,Northgate Supply,Meals,178.2
+2025-02-01,Trellis Cleaning,Meals,396.56
+2025-06-20,Ashby Catering,Meals,100.66
+2025-10-02,Ashby Catering,Travel,214.07
+2025-09-25,Ashby Catering,Office,355.18
+2025-04-09,Trellis Cleaning,Meals,336.23
+2025-07-21,Ashby Catering,Supplies,53.37
+2025-10-22,Brightline Courier,Office,174.29
+2025-04-27,Marlowe Fuel,Meals,30.82
+2025-03-27,Cedar & Poll,Meals,271.05
+2025-01-25,Pemberton Office,Office,173.71
+2025-02-18,Cedar & Poll,Meals,269.64
+2025-01-20,Kestrel Print,Services,233.46
+2025-12-16,Halloran Tools,Meals,285.78
+2025-02-06,Brightline Courier,Supplies,288.02
+2025-03-13,Pemberton Office,Supplies,333.66
+2025-08-11,Brightline Courier,Office,394.89
+2025-06-22,Vine Street Cafe,Office,294.98
+2025-07-10,Vine Street Cafe,Office,381.37
+2025-04-04,Halloran Tools,Meals,229.31
+2025-02-05,Marlowe Fuel,Supplies,178.6
+2025-07-13,Kestrel Print,Supplies,212.49
+2025-12-26,Halloran Tools,Services,324.76
+2025-02-18,Cedar & Poll,Services,145.68
+2025-01-12,Cedar & Poll,Meals,166.54
+2025-09-22,Halloran Tools,Supplies,244.26
+2025-08-12,Trellis Cleaning,Travel,207.31
+2025-07-11,Brightline Courier,Supplies,110.03
+2025-05-12,Halloran Tools,Services,35.78
+2025-02-26,Marlowe Fuel,Supplies,113.83
+2025-04-14,Trellis Cleaning,Office,238.45
+2025-07-17,Pemberton Office,Supplies,209.8
+2025-04-06,Trellis Cleaning,Office,285.7
+2025-09-28,Cedar & Poll,Office,409.41
+2025-06-19,Cedar & Poll,Services,211.15
+2025-08-05,Pemberton Office,Meals,335.47
+2025-02-08,Cedar & Poll,Travel,406.51
+2025-09-24,Trellis Cleaning,Meals,65.6
+2025-04-19,Cedar & Poll,Meals,289.58
+2025-06-04,Marlowe Fuel,Services,355.9
+2025-12-09,Brightline Courier,Travel,159.06
+2025-03-18,Marlowe Fuel,Meals,130.87
+2025-09-05,Marlowe Fuel,Supplies,47.85
+2025-01-10,Marlowe Fuel,Services,77.96
+2025-07-06,Vine Street Cafe,Travel,258.1
+2025-09-26,Cedar & Poll,Services,313.65
+2025-12-19,Marlowe Fuel,Meals,39.41
+2025-06-21,Vine Street Cafe,Travel,207.52
+2025-11-12,Ashby Catering,Travel,389.79
+2025-09-09,Trellis Cleaning,Meals,366.9
+2025-02-18,Brightline Courier,Services,388.55
+2025-11-24,Brightline Courier,Meals,373.28
+2025-02-19,Brightline Courier,Travel,407.6
+2025-05-12,Cedar & Poll,Office,391.98
+2025-11-03,Cedar & Poll,Office,180.84
+2025-03-22,Vine Street Cafe,Services,48.41
+2025-09-22,Cedar & Poll,Office,225.52
+2025-06-20,Pemberton Office,Travel,364.58
+2025-02-14,Cedar & Poll,Supplies,94.0
+2025-12-16,Northgate Supply,Services,388.34
+2025-09-03,Cedar & Poll,Meals,118.89
+2025-04-23,Marlowe Fuel,Travel,402.55
+2025-03-28,Halloran Tools,Office,257.92
+2025-10-22,Trellis Cleaning,Services,371.95
+2025-06-06,Brightline Courier,Services,79.91
+2025-01-04,Brightline Courier,Meals,360.41
+2025-01-14,Northgate Supply,Travel,344.92
+2025-12-20,Vine Street Cafe,Services,320.07
+2025-11-26,Brightline Courier,Office,164.26
+2025-04-13,Kestrel Print,Supplies,156.13
+2025-04-12,Halloran Tools,Office,372.02
+2025-04-09,Northgate Supply,Services,163.66
+2025-12-11,Vine Street Cafe,Meals,197.23
+2025-04-14,Cedar & Poll,Travel,77.09
+2025-05-15,Pemberton Office,Travel,326.76
+2025-06-06,Kestrel Print,Services,120.54
+2025-09-19,Marlowe Fuel,Services,363.54
+2025-03-10,Kestrel Print,Office,136.79
+2025-06-24,Kestrel Print,Office,329.38
+2025-09-03,Brightline Courier,Services,114.31
+2025-04-02,Halloran Tools,Services,407.98
+2025-06-22,Ashby Catering,Office,376.94
+2025-07-05,Halloran Tools,Travel,151.23
+2025-04-13,Marlowe Fuel,Services,251.76
+2025-12-03,Pemberton Office,Office,38.5
+2025-01-13,Brightline Courier,Supplies,378.32
+2025-03-03,Kestrel Print,Travel,363.98
+2025-04-11,Ashby Catering,Travel,384.71
+2025-03-26,Ashby Catering,Office,93.91
+2025-03-23,Kestrel Print,Supplies,162.74
+2025-12-04,Marlowe Fuel,Travel,387.92
+2025-02-06,Ashby Catering,Office,66.51
+2025-06-06,Trellis Cleaning,Office,125.91
+2025-09-18,Trellis Cleaning,Supplies,318.34
+2025-09-09,Brightline Courier,Office,275.51
+2025-01-03,Marlowe Fuel,Services,91.26
+2025-06-21,Trellis Cleaning,Office,134.01
+2025-10-15,Ashby Catering,Services,410.96
+2025-08-15,Northgate Supply,Travel,76.07
+2025-08-22,Northgate Supply,Supplies,318.5
+2025-07-18,Northgate Supply,Meals,82.16
+2025-03-13,Kestrel Print,Office,27.55
+2025-07-26,Pemberton Office,Services,275.2
+2025-08-01,Cedar & Poll,Meals,23.98
+2025-05-02,Ashby Catering,Meals,352.08
+2025-09-12,Pemberton Office,Meals,263.82
+2025-06-06,Ashby Catering,Travel,366.25
+2025-10-20,Halloran Tools,Supplies,230.81
+2025-08-09,Ashby Catering,Supplies,109.94
+2025-10-28,Cedar & Poll,Supplies,218.49
+2025-05-25,Cedar & Poll,Meals,110.64
+2025-10-13,Cedar & Poll,Meals,129.91
+2025-02-21,Northgate Supply,Meals,206.91
+2025-02-16,Vine Street Cafe,Supplies,288.13
+2025-11-16,Halloran Tools,Meals,214.11
+2025-11-19,Pemberton Office,Office,53.44
+2025-08-21,Pemberton Office,Office,270.67
+2025-01-09,Vine Street Cafe,Supplies,37.81
+2025-05-26,Northgate Supply,Travel,247.79
+2025-07-26,Northgate Supply,Meals,94.79
+2025-11-17,Brightline Courier,Supplies,157.12
+2025-01-03,Pemberton Office,Supplies,77.68
+2025-06-27,Vine Street Cafe,Services,152.94
+2025-04-21,Kestrel Print,Supplies,334.57
+2025-11-05,Kestrel Print,Meals,336.99
+2025-03-04,Pemberton Office,Meals,299.46
+2025-01-26,Northgate Supply,Services,277.22
+2025-08-26,Trellis Cleaning,Supplies,385.41
+2025-11-28,Brightline Courier,Travel,61.1
+2025-05-28,Halloran Tools,Meals,118.17
+2025-10-23,Marlowe Fuel,Services,273.71
+2025-12-24,Northgate Supply,Supplies,359.88
+2025-07-26,Northgate Supply,Services,122.19
+2025-08-21,Pemberton Office,Travel,169.48
+2025-06-02,Northgate Supply,Travel,214.96
+2025-04-08,Trellis Cleaning,Office,291.61
+2025-09-14,Ashby Catering,Supplies,125.51
+2025-03-01,Marlowe Fuel,Office,148.25
+2025-01-01,Marlowe Fuel,Services,393.1
+2025-10-10,Pemberton Office,Office,149.31
+2025-05-07,Vine Street Cafe,Supplies,43.95
+2025-02-28,Vine Street Cafe,Office,204.37
+2025-12-17,Kestrel Print,Meals,96.5
+2025-10-12,Kestrel Print,Supplies,147.04
+2025-02-11,Northgate Supply,Meals,134.47
+2025-11-18,Halloran Tools,Travel,178.27
+2025-04-26,Pemberton Office,Office,66.05
+2025-07-16,Halloran Tools,Services,336.6
+2025-09-09,Trellis Cleaning,Services,183.35
+2025-01-17,Brightline Courier,Travel,89.66
+2025-01-20,Cedar & Poll,Travel,235.21
+2025-05-26,Trellis Cleaning,Meals,123.66
+2025-11-02,Northgate Supply,Supplies,41.93
+2025-02-16,Kestrel Print,Meals,368.05
+2025-01-18,Brightline Courier,Office,124.15
+2025-12-20,Pemberton Office,Travel,410.14
+2025-08-19,Kestrel Print,Supplies,339.07
+2025-04-22,Trellis Cleaning,Supplies,36.29
+2025-12-19,Cedar & Poll,Travel,39.57
+2025-08-13,Northgate Supply,Supplies,46.71
+2025-07-24,Pemberton Office,Services,59.61
+2025-04-28,Pemberton Office,Services,362.26
+2025-11-04,Ashby Catering,Meals,26.66
+2025-12-17,Trellis Cleaning,Supplies,309.22
+2025-04-09,Northgate Supply,Office,296.99
+2025-08-07,Ashby Catering,Supplies,98.65
+2025-07-11,Kestrel Print,Services,27.19
+2025-05-20,Brightline Courier,Supplies,307.59
+2025-11-18,Pemberton Office,Supplies,285.08
+2025-09-26,Halloran Tools,Office,309.93
+2025-05-08,Trellis Cleaning,Services,276.37
+2025-11-15,Halloran Tools,Travel,275.44
+2025-04-20,Brightline Courier,Services,249.21
+2025-12-11,Trellis Cleaning,Supplies,24.59
+2025-07-12,Halloran Tools,Meals,53.59
+2025-07-08,Halloran Tools,Meals,409.51
+2025-04-24,Halloran Tools,Office,214.27
+2025-01-27,Kestrel Print,Supplies,44.23
+2025-12-23,Ashby Catering,Meals,246.09
+2025-05-09,Vine Street Cafe,Supplies,232.46
+2025-01-05,Trellis Cleaning,Meals,337.04
+2025-09-01,Marlowe Fuel,Services,153.22
+2025-08-11,Cedar & Poll,Supplies,279.33
+2025-05-26,Halloran Tools,Travel,56.65
+2025-01-15,Pemberton Office,Services,237.54
+2025-08-19,Northgate Supply,Meals,156.94
+2025-01-03,Northgate Supply,Meals,233.1
+2025-03-23,Ashby Catering,Travel,167.79
+2025-05-05,Ashby Catering,Services,229.71
+2025-01-18,Ashby Catering,Supplies,276.95
+2025-03-26,Marlowe Fuel,Services,116.39
+2025-03-01,Brightline Courier,Office,268.98
+2025-01-24,Kestrel Print,Meals,26.24
+2025-01-23,Trellis Cleaning,Office,280.23
+2025-05-28,Ashby Catering,Travel,264.12
+2025-06-23,Ashby Catering,Meals,337.75
+2025-04-28,Pemberton Office,Meals,28.89
+2025-10-10,Trellis Cleaning,Services,406.88
+2025-04-18,Kestrel Print,Services,262.16
+2025-03-21,Ashby Catering,Supplies,367.37
+2025-03-27,Cedar & Poll,Services,284.74
+2025-03-16,Ashby Catering,Services,296.32
+2025-04-25,Ashby Catering,Travel,206.77
+2025-01-08,Pemberton Office,Office,352.95
+2025-12-03,Vine Street Cafe,Services,27.62
+2025-06-02,Trellis Cleaning,Meals,318.1
+2025-08-20,Vine Street Cafe,Supplies,42.68
+2025-02-14,Northgate Supply,Services,87.5
+2025-05-02,Cedar & Poll,Meals,39.16
+2025-05-08,Vine Street Cafe,Office,158.21
+2025-06-01,Kestrel Print,Meals,136.09
+2025-01-01,Ashby Catering,Meals,182.09
+2025-03-09,Cedar & Poll,Office,82.02
+2025-02-16,Vine Street Cafe,Travel,140.88
+2025-10-26,Pemberton Office,Services,114.21
+2025-07-12,Vine Street Cafe,Meals,202.63
+2025-09-19,Vine Street Cafe,Travel,130.3
+2025-05-10,Halloran Tools,Office,273.28
+2025-01-20,Pemberton Office,Meals,223.6
+2025-06-28,Vine Street Cafe,Supplies,290.53
+2025-12-15,Brightline Courier,Supplies,215.48
+2025-04-19,Kestrel Print,Office,61.15
+2025-09-11,Vine Street Cafe,Supplies,220.84
+2025-05-02,Marlowe Fuel,Services,158.57
+2025-02-18,Brightline Courier,Office,359.38
+2025-07-23,Brightline Courier,Supplies,239.59
+2025-07-19,Vine Street Cafe,Services,40.04
+2025-12-06,Brightline Courier,Supplies,311.37
+2025-04-22,Pemberton Office,Travel,386.72
+2025-11-18,Ashby Catering,Services,381.14
+2025-10-01,Northgate Supply,Travel,302.28
+2025-04-20,Brightline Courier,Travel,318.18
+2025-06-06,Vine Street Cafe,Services,57.92
+2025-11-06,Marlowe Fuel,Travel,338.88
+2025-12-08,Cedar & Poll,Office,153.47
+2025-12-26,Cedar & Poll,Travel,267.93
+2025-12-06,Pemberton Office,Meals,335.18
+2025-12-06,Ashby Catering,Office,260.38
+2025-11-02,Trellis Cleaning,Meals,168.84
+2025-11-09,Halloran Tools,Travel,181.66
+2025-11-02,Kestrel Print,Services,127.88
+2025-04-22,Brightline Courier,Office,117.18
+2025-12-08,Halloran Tools,Meals,386.7
+2025-11-23,Brightline Courier,Supplies,386.44
+2025-06-16,Northgate Supply,Office,179.69
+2025-10-13,Brightline Courier,Services,117.85
+2025-02-01,Ashby Catering,Services,164.27
+2025-06-13,Cedar & Poll,Services,271.48
+2025-10-06,Kestrel Print,Services,22.48
+2025-11-25,Trellis Cleaning,Travel,194.69
+2025-08-24,Northgate Supply,Office,231.79
+2025-01-05,Kestrel Print,Supplies,202.31
+2025-07-20,Halloran Tools,Travel,317.84
+2025-12-02,Ashby Catering,Office,76.2
+2025-03-20,Northgate Supply,Office,113.16
+2025-11-13,Cedar & Poll,Office,299.02
+2025-03-28,Ashby Catering,Services,407.49
+2025-01-19,Brightline Courier,Travel,130.95
+2025-04-15,Brightline Courier,Supplies,97.02
+2025-11-17,Cedar & Poll,Office,84.44
+2025-09-26,Halloran Tools,Supplies,76.95
+2025-10-24,Vine Street Cafe,Office,170.88
+2025-08-10,Northgate Supply,Services,29.07
+2025-06-01,Halloran Tools,Services,353.6
+2025-05-18,Marlowe Fuel,Travel,81.21
+2025-12-12,Brightline Courier,Office,121.94
+2025-05-10,Kestrel Print,Office,293.59
+2025-11-06,Halloran Tools,Meals,319.62
+2025-02-18,Brightline Courier,Supplies,359.17
+2025-11-04,Harrowgate Consulting,Services,9412.66
+2025-10-09,Kestrel Print,Supplies,276.4
+2025-10-05,Marlowe Fuel,Supplies,213.69
+2025-02-05,Northgate Supply,Supplies,265.73
+2025-05-07,Ashby Catering,Services,171.4
+2025-05-15,Northgate Supply,Meals,91.69
+2025-09-23,Trellis Cleaning,Travel,231.65
+2025-05-07,Halloran Tools,Services,257.45
+2025-12-01,Brightline Courier,Office,288.92
+2025-11-11,Marlowe Fuel,Supplies,408.6
+2025-11-01,Brightline Courier,Supplies,300.11
+2025-04-26,Pemberton Office,Travel,302.71
+2025-08-22,Halloran Tools,Meals,143.18
+2025-07-08,Ashby Catering,Supplies,230.15
+2025-10-05,Kestrel Print,Travel,260.93
+2025-11-19,Zeppelin Stationers,Supplies,63.4
+2025-03-18,Kestrel Print,Services,283.28
+2025-06-21,Northgate Supply,Meals,56.75
+2025-01-05,Pemberton Office,Meals,287.41
+2025-09-15,Ashby Catering,Office,40.6
+2025-11-01,Pemberton Office,Travel,57.74
+2025-10-06,Brightline Courier,Travel,227.43
+2025-03-03,Trellis Cleaning,Meals,379.9
+2025-06-22,Ashby Catering,Supplies,236.32
+2025-10-08,Northgate Supply,Services,402.1
+2025-05-15,Marlowe Fuel,Supplies,202.55
+2025-01-15,Pemberton Office,Meals,207.94
+2025-09-06,Vine Street Cafe,Meals,41.15
+2025-03-12,Trellis Cleaning,Meals,286.72
+2025-12-10,Brightline Courier,Supplies,257.74
+2025-12-30,Northgate Supply,Office,101.01
